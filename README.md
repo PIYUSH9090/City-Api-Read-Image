@@ -1,11 +1,11 @@
 # Here we creating the shell script of city api project 
 
-## In there we can create the cluster and also delete the cluster and we can also deploy the project with only 3 commands
+### In there we can create the cluster and also delete the cluster and we can also deploy the project with only 3 commands
 
 # Prerequisites
-## You have already created the project in gcloud console and should be enable the api & services
-## After that you have initialize with this command $ gcloud init
-## Now you can use this 3 command to run your project
+### You have already created the project in gcloud console and should be enable the api & services
+### After that you have initialize with this command $ gcloud init
+### Now you can use this 3 command to run your project
 
 if you want to create the cluster then you have to give just this command 
 ```
